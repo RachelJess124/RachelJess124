@@ -1,6 +1,6 @@
 Envisaging the West: Thomas Jefferson and the Roots of Lewis and Clark, Douglas Seefeldt, http://jeffersonswest.unl.edu/
 
-#Summary
+ #Summary
 
 Envisaging the West: Thomas Jefferson and the Roots of Lewis and Clark is about Thomas Jefferson's role in planning the Lewis and Clark expeditions.  This digital archive started as a collaboration between the Center for Digital Research in the Humanities at the University of Nebraska-Lincoln and the University of Virginia's Virginia Center for Digital History & Geospatial Data Center. 
  
