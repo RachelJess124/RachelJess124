@@ -22,8 +22,9 @@ The Costar Project acknowledges UNC's IT groups, Tomcat and Oracle, along with  
 The Costar Project relates to history because the garments themselves come from all  over the world and are associated with different time periods in the 19th and 20th centuries. The  only mention of history is in the project's homepage, which acknowledges the difficulty of giving  clothes a specific date for when they existed and instead provides a range of dates that the item  was or could have been worn in. The Costar Project does not explain the clothes' historical  context except for a few items, like a suffragette bandana, or why people at the time gravitated  towards these styles.
 
 # Issues
-There are a few issues with this project. For example, there are two typos on the  homepage alone, which may make visitors question if they should trust the site.
+There are a few issues with this project. For example, there are two typos on the  homepage alone, which may make visitors question at first glance if they should trust the site.
 ![The homepage's typos, exensive in the first sentence of the first paragraph and inquires in the third sentence of the second paragraph](https://raw.githubusercontent.com/RachelJess124/RachelJess124/main/images/grammaralertrb2.jpg)
+
 On the homepage in the structure section of the website, the third bullet point says that  the archive displays 15 images per page, but each page has 21 images. This should be updated  to reflect the actual image number because this may also cause visitors to question the site's  credibility. 
 It would also help visitors if the site provided a few example images of what a garment's  page looks like in its user guide, along with descriptions of the pages' sections, which include  overview, trim, damage, and provenance.
 The homepage's menu bar at the top has links to the Costar Project, leading back to the  homepage; the project's archive, leading to the clothes archive; and the Nowes Ark holdings,  leading the visitor to a different project focusing on clothes outside of the West. This is an issue  because all of these links are redundant and should be removed. 
@@ -38,3 +39,7 @@ These issues could cause frustration when navigating the archive, but otherwise,
 This project fits what I want my DH project to look like because I want to create a  timeline of women's fashion in the 1920s. This archive has many garments from that era for me  to investigate. I appreciate the level of detail the website has about each garment and wish to  include that level of detail in my project.
 My project will discuss the historical context of clothes women wore at the time and why  they wore them in addition to providing details about individual garments, such as what its material  and any damages. While providing historical context may not be The Costar Project's main  objective, that is the main goal of my timeline of women's fashion in the 1920s.
 Overall, The Costar Project is an expertly created archive with a wide selection of  garments from the 19th and 20th centuries. Anyone interested in fashion, whether they are an  academic or not, can benefit from the project and the information it gives about every garment.
+
+# Works Cited
+Adamson, Judy. [About the Costar Archive.] The Costar Project, v6.1.1, 2022,   (http://costumes.unc.edu/costar/homes/Costar_about.jsp.) Accessed 14 October 2022.
+[What is open source?] Red Hat, 2022, (https://opensource.com/resources/what-open-source.)  Accessed 20 October 2022.
