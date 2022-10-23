@@ -23,6 +23,7 @@ The Costar Project relates to history because the garments themselves come from 
 
 # Issues
 There are a few issues with this project. For example, there are two typos on the  homepage alone, which may make visitors question at first glance if they should trust the site.
+
 ![The homepage's typos, exensive in the first sentence of the first paragraph and inquires in the third sentence of the second paragraph](https://raw.githubusercontent.com/RachelJess124/RachelJess124/main/images/grammaralertrb2.jpg)
 
 On the homepage in the structure section of the website, the third bullet point says that  the archive displays 15 images per page, but each page has 21 images. This should be updated  to reflect the actual image number because this may also cause visitors to question the site's  credibility. 
