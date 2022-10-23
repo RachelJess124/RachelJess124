@@ -43,4 +43,5 @@ Overall, The Costar Project is an expertly created archive with a wide selection
 
 # Works Cited
 Adamson, Judy. About the Costar Archive. The Costar Project, v6.1.1, 2022,   (http://costumes.unc.edu/costar/homes/Costar_about.jsp.) Accessed 14 October 2022.
+
 What is open source? Red Hat, 2022, (https://opensource.com/resources/what-open-source.)  Accessed 20 October 2022.
