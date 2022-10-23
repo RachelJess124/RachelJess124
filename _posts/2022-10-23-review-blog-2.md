@@ -41,5 +41,5 @@ My project will discuss the historical context of clothes women wore at the time
 Overall, The Costar Project is an expertly created archive with a wide selection of  garments from the 19th and 20th centuries. Anyone interested in fashion, whether they are an  academic or not, can benefit from the project and the information it gives about every garment.
 
 # Works Cited
-Adamson, Judy. [About the Costar Archive.] The Costar Project, v6.1.1, 2022,   (http://costumes.unc.edu/costar/homes/Costar_about.jsp.) Accessed 14 October 2022.
-[What is open source?] Red Hat, 2022, (https://opensource.com/resources/what-open-source.)  Accessed 20 October 2022.
+Adamson, Judy. About the Costar Archive. The Costar Project, v6.1.1, 2022,   (http://costumes.unc.edu/costar/homes/Costar_about.jsp.) Accessed 14 October 2022.
+What is open source? Red Hat, 2022, (https://opensource.com/resources/what-open-source.)  Accessed 20 October 2022.
