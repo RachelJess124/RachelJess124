@@ -1,4 +1,4 @@
-###### Understanding and Defining Digital Humanities  
+# Understanding and Defining Digital Humanities  
 
 My understanding of digital humanities (DH) has grown as the semester progressed  
 because previously, I had _no_ experience with it. In fact, if someone were to ask me before I  
@@ -8,7 +8,7 @@ fields to provide useful and interactive information that will improve the world
 this class, I have a better understanding of DH, especially how broad it is. I have done peer  
 reviews for projects that have covered a range of subjects from immigration to sports statistics.  
 
-###### Assignments I Struggled With and Found Useful 
+# Assignments I Struggled With and Found Useful 
 
 I _really_ struggled with writing my grant since it was unlike any other assignment I have  
 done for both writing intensive and non writing intensive classes. I also felt unqualified to write  
@@ -27,21 +27,21 @@ gave me reasons to edit. Since DH requires peer review, this component of the cl
 realize that collaboration is an important part of the field. The review blogs were useful as well. I  
 learned how to provide an unbiased review through these assignments and to end on a light note.  
 
-###### What Would Help Future Students
+# What Would Help Future Students
 
 I think it would help future students if they chose a topic for their grant earlier because  
 they could start thinking about sources for their grant as early as when the first review blog is  
 assigned. Additionally, allowing them to research DH projects related to their topic will be helpful  
 for them as they go further into the class.  
 
-###### My Favorite Reading and Why
+# My Favorite Reading and Why
 
 Anne Lamott's Shitty First Drafts was a refreshing read because I am a perfectionist.  
 This reading brought levity to the class and allowed me to feel more comfortable with the  
 messiness of writing. If published authors struggle with first drafts, that gives permission to the  
 rest of us to fail and accept our imperfections and therefore our humanity.  
 
-###### What I Got Out of This Class
+# What I Got Out of This Class
 
 Using GitHub was a bit of a learning curve at first since it was new and 
 technology-related. Before this class, I had almost no coding experience. As the class 
